@@ -1,4 +1,4 @@
-﻿package com.generation.blogPessoal.controller;
+package com.generation.blogPessoal.controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
